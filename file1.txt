@@ -1,2 +1,2 @@
-git is a  version control tool
-i love git.
+git is a distributed version control tool
+git is free software distributed under the GPL.
